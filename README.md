@@ -1,3 +1,5 @@
 # Parit-Johanna-ja-Sami
 
-Tässä nyt lue minut teksti.
+Tässä on luomani README tiedosto.
+
+Alkakoon mahtava parityöskentelymme!!
