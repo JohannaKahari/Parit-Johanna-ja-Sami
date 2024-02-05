@@ -3,3 +3,5 @@
 Tässä on luomani README tiedosto.
 
 Alkakoon mahtava parityöskentelymme!!
+
+No niin alkaa tosiaan
